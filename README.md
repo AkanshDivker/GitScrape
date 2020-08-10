@@ -2,6 +2,10 @@
 
 GitScrape is a Python program which intends to help make data retrieval on GitHub simple and efficient. GitScrape is capable of querying for specified repository types and then collect relevent data and statistics on the repository, while also cloning the repositories if necessary. Particularly in software related research, large sets of data are required to perform studies. GitScrape hopes to make this process a little easier by automating the collection process, and making the collected repositories easy to use for analysis with additionally provided statsics included and ready to use.
 
+#### TO-DO:
+- Implement smart system for cloning and stats storage
+- Improve performance
+
 ## Getting Started
 
 You can get started by cloning the repository on your desktop. The code should be commented enough to follow along and understand. Please install the necessary Python requirements that are located inside of the `requirements.txt` file.
