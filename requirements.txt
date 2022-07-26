@@ -1,4 +1,4 @@
-arrow==0.13.2
+arrow==0.15.1
 astroid==2.3.3
 beautifulsoup4==4.9.1
 binaryornot==0.4.4
