@@ -29,7 +29,7 @@ patch-ng==1.17.1
 pluginbase==0.7
 poyo==0.4.2
 Pygments==2.7.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pyparsing==2.4.5
 python-dateutil==2.8.0
